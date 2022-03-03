@@ -1,4 +1,4 @@
-# math_extended
+# math_extended.py
 This module is a continuation of the math module but adds functions to solve certain number theory problems.
 # Get started
 View and copy any functions defined in the file. 
